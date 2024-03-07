@@ -1,8 +1,8 @@
-# CoinCorrelationCalculator
+# Analysis of coin correlation
 Find correlation among coins by using Pearson Correlation Coefficient.
 
-#Setup
+## Setup
 collab
 
-#API
+## API
 pyUpbit
